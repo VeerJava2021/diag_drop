@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68928660508",
+    "project_id": "diag-drop",
+    "storage_bucket": "diag-drop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68928660508:android:47ed353d1578570726abd9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNz8hitQdoVCgbG3LTdOdgYWobCNKah0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
